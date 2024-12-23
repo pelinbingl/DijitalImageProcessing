@@ -1,4 +1,4 @@
-# DijitalImageProcessing# Görüntü İşleme Programı
+# DijitalImageProcessing # Görüntü İşleme Programı
 
 Bu Python programı, OpenCV ve NumPy kullanarak çeşitli görüntü işleme işlevleri sağlar. Aşağıda mevcut işlevlerin bir özeti ve nasıl kullanılacağı açıklanmaktadır.
 
